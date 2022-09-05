@@ -1,1 +1,1 @@
-Shell redirection and scripting basics
+Shell basics redirections
