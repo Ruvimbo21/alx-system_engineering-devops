@@ -1,1 +1,1 @@
-Shell redirection and scripting basics
+Bash basics on steroids
